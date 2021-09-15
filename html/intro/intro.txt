@@ -1,0 +1,24 @@
+what is html?
+ html stands for hypertext markup language,it is the only language to create a webpage.
+ html consists of many elements which it describes how the content to be displayed in a page.
+ html describes how the structure of an page to be displayed.
+what is <!doctype html>?
+ it defines that the document is html5 document.
+ it is written in the top of the page beacuse it means we are giving instructions to the browser that the document is an html file.
+what is <html>?
+ this is an root element in html page. 
+what is <head>?
+ the content which is written in this part will not be visible in the html page.
+ it gives meta information about the page.
+what is  <title>?
+ in this we can add title of the page which it displays on the title bar.
+what is <body>?
+ whatever the content is written in this part only visible in the html page.
+what is <h1>?
+ it defines a large heading ,here in this we are having from <h1> to <h6> based on our requirements.
+what is <p>?
+ this element defines a paragraph.
+What is an HTML Element?
+ html element contains start tag and end tag with some content in between them.
+ <h1>,<p> these are some html elements.
+ 
