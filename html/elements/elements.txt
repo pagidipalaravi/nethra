@@ -1,0 +1,51 @@
+html elements
+	An html element represents with start tag, some content and end tag
+	The html element is everything from start tag to end tag.
+	Syntax
+		<tagname> content goes here..</tagname>
+	Example
+		<h1>This is a heading</h1>
+		<p>This is a para.</p>
+--
+Nested elements
+	Html elements can be nested ( this means that elements can contain other elements).
+	All html documents consists of nested HTML elements.
+	Example
+		<!DOCTYPE html>
+		<html>
+			<head>
+				<title>Elements</title>
+			</head>
+			<body>
+				<h1>This is a heading</h1>
+				<p>This is a para.</p>
+			</body>
+		</html>
+	Example explained
+		The <html> element is the root element and it defines the whole HTML document.
+		It has a start tag <html> and an end tag </html>.
+		Then, inside an <html> element there is an <body> element.
+		The <body> element defines the document's body.
+		It has a start tag <body> and an end tag </body>.
+		Then inside a <body> element there are two other elements: <h1> and <p>.
+		The <h1> element defines a heading.
+		It has a start tag <h1> and an end tag </h1>.
+		The <p> element defines a paragraph.
+		It has a start tag <p> and an end tag </p>.
+Never skip the End Tag
+	Some HTML elements will display correctly, even if you forget the end tag.
+Empty HTML elements
+	HTML elements with no content are called empty elements.
+	The <br> tag defines a line break, with an empty element without a closing tag.
+	Example
+		<!DOCTYPE html>
+		<html>
+			<head>
+				<title>Empty HTML elements</title>
+			</head>
+			<body>
+				<p>This is a <br> paragraph with line break.</p>
+			</body>
+		</html>
+HTML is not case sensitive
+	HTML tags are not case sensitive: <p> means the same as <p>.
