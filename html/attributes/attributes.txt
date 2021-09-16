@@ -1,0 +1,106 @@
+HTML attributes
+	HTML attributes provide additional information about HTML elements.
+	All html elements can have attributes.
+	Attributes are always specified in the start tag only.
+	Attributes usually come in name/value pairs like: name="value".
+The href attributes
+	The <a> tag defines a hyperlink. The href attribute specifies the URL of the page.
+	Example
+		<!DOCTYPE html>
+		<html>
+			<body>
+				<h3>The href attribute<h3>
+				<p>The HTML links defines with the tag. The link address is specified in the href attribute:</p>
+				<a href="https://www.w3schools.com">Visit W3Schools</a>
+			</body>
+		</html>
+The src attribute
+	The <img> tag is used to embed an image in html page. The src attribute specifies the path to the image to be displayed.
+	Example
+		<!DOCTYPE html>
+		<html>
+			<body>
+				<h2>The src Attribute</h2>
+				<p>HTML images are defined with the img tag, and the file name of the image source is specified in the src attribute:</p>
+				<img src="img_girl.jpg"> width="500" height="600"
+			</body>
+		</html> 
+The alt attribute
+	The alt attribute of an <img> tag specifies an alterante text for an image, if the image for reason cannot displayed.
+	This can be due to slow connection, or an error in the src attribute. 
+	If we try to display an image that does not exist:
+	Example
+		<!DOCTYPE html>
+		<html>
+			<body>
+				<h1>The alt Attribute</h1>
+				<p>If we try to display an image that doesnot exist, the value of an alt attribute will be displayed instead.</p>
+				<img src="img_girl.jpg" alt="Girl with a jacket">
+			</body>
+		</html>
+Absolute URL
+	Links to an external image that is hosted on the another website.
+	Example
+		src="https://www.W3Schools.com/images/img_girl.jpg".
+Relative URL
+	Links to an image that is hosted within the website. Here the URL does not include the domain name.
+	If the URL begins without a slash, it will be relative to the current page.
+	Example
+		src="img_girl.jpg"
+	If the URL of an image begins with a slash, it will be relative to the domain.
+	Example
+		src="/image/img_girl.jpg".
+The style attribute
+	The style attribute is used to add style to an element, such as colour, font, size and more.
+	Example
+		<!DOCTYPE html>
+		<html>
+			<body>
+				<h1>The style Attribute</h1>
+				<p>The style Attribute is used to add styles to an element, such as colour:</p>
+				<p style="color:green;">This is a pink para.</p>
+			</body>
+		</html>
+The lang Attribute
+	You should always include the lang attribute inside the <html> tag, to declare the language of the webpage.
+	This is meant to assist search engines and browsers.
+	Example
+		<!DOCTYPE html>
+		<html lang="en">
+			<body>
+				....
+			</body>
+		</html>
+	Country codes can also be added to the language code in the lang attribute.
+	Example
+		<!DOCTYPE html>
+		<html lang="en-US">
+			<body>
+				....
+			</body>
+		</html>
+The title attribute
+	The title attribute defines some extra information about an element.
+	Example
+		<!DOCTYPE html>
+		<html>
+			<body>
+				<h1 title="i'm a header">The title Attribute</h1>
+				<p title="This is a tooltip">Mouse over this paragraph, to display the title attribute as a tooltip.</p>
+			</body>
+		</html>
+Always use lowercase Attributes
+	The Attributes can be written with uppercase or lowercase like  or title, but using lowercase is a better way.
+Single or Double Quotes
+	Double Quotes around the attributes are the most common in HTML, but Single Quotes can also be used.
+	When the attribute value itself contains Double Quotes, then it is necessary to use Single Quotes:
+	Example
+		<!DOCTYPE html>
+		<html>
+			<body>
+				<h1>This is a heading</h1>
+				<p>Mouse over the paragraph to see the effect.</p>
+				<p title="This is a 'title'">title with single quotes</p>
+				<p title='This is a "title"'>title with double quotes</p>
+			</body>
+		</html>
