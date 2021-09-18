@@ -1,0 +1,95 @@
+HTML link-Hyperlinks
+	HTML links are Hyperlinks
+	You can click on a link and jump to another document.
+	When you move the mouse over a link, the mouse arrow will change to little hand.
+HTML Links- The target Attribute
+	By default, the linked page will displayed in the current browser window
+	To change this, you must specify another target for the link.
+	The target attribute specifies where to open the link.
+	The target attribute can have one of the following values:
+		_self
+		_blank
+		_parent
+		_top
+	Use target="_blank" to open the linked document in a new browser window.
+	Example
+		<a href="https://www.W3Schools.com/" target="_blank">visit W2Schools</a>
+	Use target="_self" to open the linked document in the current browser only.
+	Example
+		<a href="https://www.w3schools.com/" target="_self">visit W3Schools</a>
+Link to an Email Address
+	Use mailto: inside the href attribute to create a link that opens the users email program.
+	Example
+		<a href="mailto:someone@example.com">send mail</a>
+Link Titles
+	The title attribute specifies extra information about an element.
+	The information most often shown as a tooltip text whwn the mouse moves over the element.
+	Example
+		<a href="https://www.w3schools.com/html" title="Go to w3schools HTML section">visit HTML Tutorial</a>
+More on Absolute and Relative URLS
+	Link to a page located in the html folder on the current website.
+	Example
+		<a href="/html/default.asp">HTML Tutorial</a>.
+		<a href="default.asp">HTML Tutorial</a>
+HTML Links-Different Colors
+	HTML link colors
+		You can change the link state colors, by using CSS
+		Example
+				<head>
+	<style>
+		a:link {
+		  color: green;
+		  background-color: transparent;
+		  text-decoration: none;
+		  }
+		a:visited {
+		  color: pink;
+		  background-color: transparent;
+		  text-decoration: none;
+		  }
+		a:hover {
+		  color: red;
+		  background-color: transparent;
+		  text-decoration: underline;
+		  }
+		a:active {
+		  color: yellow;
+		  background-color: transparent;
+		  text-decoration: underline;
+		  }
+	</style>
+	</head>
+Link Buttons
+	A link can also be styled as a button, by using CSS.
+	Example                       
+		<style>
+		a:link, a:visited {
+		  color: pink;
+		  background-color: green;
+		  padding: 20px 30px;
+		  text-align: right;
+		  text-decoration: none;
+		  display: inline-block;
+		  }
+		a:hover, a:active {
+		  background-color: red;
+		  }
+	</style>
+Create a Bookmark in HTML 
+	Bookmarks can be useful if the webpage is very long.
+	To create a bookmark-first create a bookmark, then add link to lt.
+	When the link is clicked, the page will scroll down or up to the location with the bookmark.
+	First use the id attribute to create a bookmark.
+	Example
+		<h1 id="c4">chapter 4</h1>
+	Then, add a link to the bookmark.
+	
+	
+	
+
+
+
+
+	
+	
+
