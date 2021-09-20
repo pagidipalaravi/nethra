@@ -1,0 +1,142 @@
+HTML Tables
+	The HTML table allow web developers to arrange data intlo rows and coloumns.
+	A table in HTML consists of table cells inside rows and coloumns.
+What is Table Cells?
+	Each table cell is defined by <td> and </td> tag, td stands for table data.
+	Everything between <td> and </td> are the content of the table cell.
+What is Table Rows?
+	Each table row starts with <tr> and ends with </tr> tag, tr stands for table row.
+	We can make many rows, just makesure that the number of cells are the same in each row.
+What is Table Headers?
+	If we want to make cells to be headers, in those cases <th> tag has been used instead of <td>.
+	By default, the text in <th> tag are centered and bold, but we can change by using CSS.
+	Example:
+	<body>
+		<h2>HTML Table<h2>
+		<table>
+			<tr>
+				<th>company</th>
+				<th>contact</th>
+				<th>country</th>
+			</tr>
+			<tr>
+				<td>Ernst Handle</td>
+				<td>Roland Mendel</td>
+				<td>Austria</td>
+			</tr>
+			<tr>
+				<td>Island Trading</td>
+				<td>Helen Bennett</td>
+				<td>UK</td>
+			</tr>
+			<tr>
+				<td>Alfreds FutterKiste</td>
+				<td>Maria Anders</td>
+				<td>Germany</td>
+			</tr>
+		</table>		
+	</body>
+How to add a Border for Tables?
+	To add a border, use CSS property on table, th, and td element.
+	When you want to add border to a table, you can add border around each table cell.
+What is Collapsed Table Borders?
+	To avoid having double borders, then use the border-collapsed property.
+	This will make the borders collapsed into single.
+	Example
+		table, td, th {
+						background-collapse: collapse
+					}
+What is style Table property?
+	If you set a background color of each cell, then give a border a color which is attractive of an invisible border.
+	Example
+		table {
+				border: 2px solid green
+				}
+Round Table Borders
+	To get the round borders, use the border-radius property.
+	The border-radius property used to get rounder corners of a border.
+	Example
+		table {
+			border-radius: 5px
+			}
+	You can skip the table border by leaving out the table from the CSS selector.
+HTML Table Sizes
+	HTML Tables can have different sizes for each coloumn, row and an entire table.
+	Use the style attribute to specify the size of a coloumn, row and a table.
+HTML Table Width
+	To change the width of a table, add the style attribute with width to a table element.
+	Example
+		<table style="width: 50%">
+HTML Table Coloumn Width
+	To set the size of a specific coloumn, add style attribute on <th> or <td>.
+	Example
+	<th style="width: 30%">
+HTML Table Row Height
+	To set the height of a specific row add the style attribute on a table row element.
+	Example
+		<tr style="height:50px">
+Vertical Table Headers
+	To use the first coloumn as a table header, then define the first cell in each row with <th>.
+	Example
+		<tr>
+			<th>First Name</th>
+			<td>jill</td>
+			<td>Eve</td>
+		</tr>
+Align Table Headers
+	By default, the table headers are bold and centered.
+	If you want to align table headers as left or right, use text-align property.
+	Example
+			th {
+		text-align: left;
+		}
+Header for Multiple Coloumns
+	You can have header that spans over two or more coloumns.
+	To do this, use colspan attribute on <th> tag.
+	Example
+		<th colspan="2">Name</th>
+Table Caption
+	You can add a table caption that serves as a heading for entire table.
+	To add a caption to a table, use caption tag.
+	Example
+		<caption>Tables</caption>
+HTML Table-Cell Padding
+	Cell padding is space between the cell edges and the cell content. By default, the padding is set to 0.
+	To add padding on table cells, use pading property.
+	If you want to add padding only above the content, use padding-top property and same for padding-bottom, padding-right, padding-left.
+HTML Table-cell spacing
+	Cell spacing is space between the each cell. By default it will take 2px.
+	To change the space between the cells, use border-space property.
+	Example
+		table {
+		border-spacing: 20px;
+		}
+HTML Table-Rowspan
+	To make a cell span over multiple rows, use rowspan attribute.
+Horizontal Dividers 
+	If you want to specify borders only at the bottom of each row, use border-bottom property in tr elements to get horizontal dividers.
+Hoverable Table
+	Use the hover selector on tr to highlight table rows, when you mouse over the rows.
+	Example
+		tr:hover {
+		background-color: orange;
+		}
+HTML Table Colgroup
+	The <colgroup> element should be used as a container for the column specifications.
+	Each group are specified with a <col> element.
+	The span attribute specifies how many columns wants to be style.
+	The style attribute specifies the style to give the columns.
+Multiple Col Elements
+	If you want to style more columns with different styles, use more <col> elements inside the <colgroup>.
+Empty Colgroups
+	If you want to style columns in the middle of a table, insert a "empty" <col> element  for the columns before you want to style.
+Hide Columns
+	If you want to hide coloumns then use visibility: collapse property.
+	Example
+		<colgroup>
+			<col span="2">
+			<col span="3" style="visibility: collapse">
+		</colgroup>
+	
+
+	
