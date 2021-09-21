@@ -1,0 +1,5 @@
+HTML Lists
+	HTML lists allows the web developer to group the related items in lists.
+Unordered HTML List
+	An unodered list starts with <ul> tag and each list item starts with <li> tag.
+	The list items will be marked with bullets by default. 
