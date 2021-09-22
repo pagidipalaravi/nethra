@@ -24,7 +24,7 @@ What is an HTML Element?
 	Syntax
 		<tag-name>Some content here</tag-name>
 	Example
-		<h1>html elements</h1>
+		<h1>Content here</h1>
 	Some elements have no content they are <br>
 	These elements are called as empty elements, empty elements have no end tag.
 --
