@@ -1,0 +1,24 @@
+Define JavaScript Syntax?
+	JavaScript syntax defines the set of rules and how JavaScript programs are constructed.
+What are JavaScript Values?
+	The JavaScript syntax defines two types of values:
+		Fixed values
+		Variable values
+What are Fixed Values?
+	Fixed values are called Literals.
+What are JavaScript Literals?
+	The most important syntax rules for fixed values are Numbers and Strings.
+	Numbers are written with or without decimals.
+	Strings are text, that are written within single or double quotes.
+Define JavaScript Variables?
+	variables are used to store data values in programming language.
+	JavaScript uses the keywords like var, let and const to declare variables.
+Why we use JavaScript Operators?
+	JavaScript uses arithmetic operators like (+ _ * /)to compute the values.
+Define JavaScript Expressions?
+	JavaScript Expressions are the combination of values operators and variables. 
+	Expression can also contains variable values.
+What are the types of values in JavaScript?
+	Values can be of various types, such as strings and numbers.
+Is JavaScript statements are Case Sensitive?
+	Yes, all javascript statements are case sensitive.

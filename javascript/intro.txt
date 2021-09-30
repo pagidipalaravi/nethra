@@ -1,0 +1,31 @@
+What is JavaScript?
+	It is the worlds most popular language.
+	JavaScript is the programming language of the web.
+Why we need to study javaScript?
+	For web developing we need 3 languages, javaScript is one of the 3 languages.
+	It gives the behaviour to the HTML code, and validations are done by using javaScript only.
+	Without javaScript, the HTML code specifies that body with no brain.
+Is JavaScript Can Change HTML Content?
+	Yes, we can change HTML content by using the method getelementbyid().
+What is getelementbyid()?
+	By giving an id=demo, we can get an innerhtml of element with changes.
+What is innerhtml?
+	It defines the content between start tag and end tag of an element.
+Can JavaScript Change HTML Attribute Values?
+	Yes,it can change the attribute values.
+Can JavaScript Hide HTML Elements?
+	Yes, it can hide elements by changing the display style as none.
+	HTML elements can also show hidden elements by changing the display style as "block".
+What is the use of <script> Tag?
+	In HTML, JavaScript code is inserted between <script> and </script> tags.
+	You can place any number of scripts in an HTML document.
+	Scripts can be placed in the <body> or in the <head> section or in both.
+Define External JavaScript?
+	Scripts can also be placed in external files
+	To use an external script, put the name of the script file in the src attribute of a <script> tag.
+	JavaScript files have the extension of .js.
+	You can place an external script reference in <head> or <body> as you like.
+What are the Advantages of External JavaScript?
+	It separates HTML and code.
+	It makes HTML and JavaScript easier to read and maintain.
+	Cached JavaScript files can speed up page loads.

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<script>
+		function myFunction() {
+		document.getElementById("demo4").innerHTML="paragraph changed";
+		}
+		</script>
+	</head>
+	<body>
+		<h3>What can javascript Do?</h3>
+		<p id="demo">JavaScript can change HTML content.</p>
+		<button type="button" onclick='document.getElementById("demo").innerHTML="Hello JavaScript"'>Click here!</button>
+		<p>JavaScript can change HTML attribute values.</p>
+		<button onclick="document.getElementById('images').src='pic_bulbon.gif'">Turn on the light</button>
+		<img id="images" src="pic_bulboff.gif" style="width:100px">
+		<button onclick="document.getElementById('images').src='pic_bulboff.gif'">Turn off the light</button>
+		<p id="demo1">changing fontsize.</p>
+		<button type="button" onclick="document.getElementById('demo1').style.fontSize='30px'">click me</button>
+		<p id="demo2">hiding elements</p>
+		<button type="button" onclick="document.getElementById('demo2').style.display='none'">click here</button><br>
+		<p id="demo3" style="display:none">showing hidden elements</p>
+		<button type="button" onclick="document.getElementById('demo3').style.display='block'">click me</button>
+		<p id="demo4">A paragraph</p>
+		<button type="button" onclick="myFunction()">Try it</button>
+	</body>
+</html>

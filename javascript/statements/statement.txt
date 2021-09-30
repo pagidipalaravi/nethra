@@ -1,0 +1,12 @@
+Define JavaScript Programs?
+	Genarally a computer program is a list of instructions that will be executed by a computer.
+	In a programming language, these programming instructions are called statements.
+	A JavaScript program is a list of programming statements.
+Define JavaScript statements?
+	JavaScript statements are composed of values, operators, Expressions, keywords and comments.
+	Most JavaScript programs contain many JavaScript statements.
+	The statements are excuted one by one in the same order as written in the program.
+	javascript programs and statements are often called as JavaScript code.
+What are Semicolons ;
+	It is used to separate JavaScript statements.
+	You should add a semicolon at the end of each excutable statement.
