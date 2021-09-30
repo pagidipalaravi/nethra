@@ -1,5 +1,5 @@
 html elements
-	An html element represents with start tag, some content and end tag
+	An html element is defined by start tag, some content and end tag
 	The html element is everything from start tag to end tag.
 	Syntax
 		<tagname> content goes here..</tagname>
@@ -8,7 +8,7 @@ html elements
 		<p>This is a para.</p>
 --
 Nested elements
-	Html elements can be nested ( this means that elements can contain other elements).
+	Html elements can be nested, means that elements can contain other elements.
 	All html documents consists of nested HTML elements.
 	Example
 		<!DOCTYPE html>
@@ -34,6 +34,8 @@ Nested elements
 		It has a start tag <p> and an end tag </p>.
 Never skip the End Tag
 	Some HTML elements will display correctly, even if you forget the end tag.
+	However, never miss end tag, if you miss, an unexpected results and errors may occur.
+	--
 Empty HTML elements
 	HTML elements with no content are called empty elements.
 	The <br> tag defines a line break, with an empty element without a closing tag.
@@ -47,5 +49,11 @@ Empty HTML elements
 				<p>This is a <br> paragraph with line break.</p>
 			</body>
 		</html>
+--
 HTML is not case sensitive
-	HTML tags are not case sensitive: <p> means the same as <p>.
+	HTML tags are not case sensitive: <p> means the same as <P>.
+	but always use lowercase tag names.
+--
+FAQs
+	What is the difference b/w tag and element?
+	What are the nested elements?
