@@ -1,34 +1,68 @@
-what is html?
-	html stands for hypertext markup language,it is the only language to create a webpage.
-	html consists of many elements which it describes how the content to be displayed in a page.
-	html describes how the structure of an page to be displayed.
-what is <!doctype html>?
-	It defines that the document is html5 document.
-	It is written in the top of the page beacuse it means we are giving instructions to the browser that the document is an html file.
+what is HTML?
+	HTML stands for Hyper Text Markup Language.
+	It is the only language to create a webpage. It describes the structure of a Web page.
+	It consist of many elements. Elements tell the browser how to display the content.
+What is <!doctype html>?
+	It defines that this document is an HTML5 document.
+	It must be written in the top of the page.
+	we are giving information to the browser that this document is an html document.
+	Browser also compiles the html document by following html5 standards.
 what is <html>?
- This is the root element in html page. 
+	This is the root element in html page.
 what is <head>?
-	The content which is written in this part will not be visible in the html page.
-	It gives meta information about the page.
+	It Contains meta information about the page.
+	The content which is written in this element will not be visible in the web page.
 what is  <title>?
-	In this we can add title of the page which it displays on the title bar.
+	It specifies a title for the HTML page.
+	It is shown in the browser's title bar or in the page's tab.
 what is <body>?
-	Whatever the content is written in this part only visible in the html page.
+	It defines the document's body.
+	It is a container for all the visible contents.
+	The content that is written in this element only visible in the web page.
 what is <h1>?
-	It defines a large heading ,here in this we are having from <h1> to <h6> based on our requirements.
+	It defines a large heading ,here in this we are having from <h1> to <h6>.
 what is <p>?
 	This element defines a paragraph.
 What is an HTML Element?
  	HTML elements tell the browser how to display the content.
 	HTML element is defined by start tag, some content, an end tag.
-	Syntax
+	--
+	Syntax:
 		<tag-name>Some content here</tag-name>
-	Example
+	--
+	Example:
 		<h1>Content here</h1>
+	--
 	Some elements have no content they are <br>
 	These elements are called as empty elements, empty elements have no end tag.
---
-What is the diff b/w web browser and web server?
-	Chrome Browser Apache http Server
-What is the diff b/w html4 and html5?
+==
+What is the difference between web browser and web server?
+	web browser
+		It will be installed in client machine.
+		Example:
+			chrome, firefox, edge
+	Web Server
+		It will be installed in server machine.
+		Example:
+			Tomcat, Jboss, weblogic
+==
+HTML History
+Since the early days of the World Wide Web, there have been many versions of HTML:
+
+Year	Version
+1989	Tim Berners-Lee invented www
+1991	Tim Berners-Lee invented HTML
+1993	Dave Raggett drafted HTML+
+1995	HTML Working Group defined HTML 2.0
+1997	W3C Recommendation: HTML 3.2
+1999	W3C Recommendation: HTML 4.01
+2000	W3C Recommendation: XHTML 1.0
+2008	WHATWG HTML5 First Public Draft
+2012	WHATWG HTML5 Living Standard
+2014	W3C Recommendation: HTML5
+2016	W3C Candidate Recommendation: HTML 5.1
+2017	W3C Recommendation: HTML5.1 2nd Edition
+2017	W3C Recommendation: HTML5.2
+==
+What is the difference between html4 and html5?
 	//TODO

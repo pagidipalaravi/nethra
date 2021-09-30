@@ -1,8 +1,9 @@
- hello all this is Kiran ,good morning all ,how are you? are able to here me clearly?
- 
+Hello all, I am Ravi, Good Morning All, How are you? Are able to here me clearly?
+
 Tell me about yourself?
-	my name is  kiran mallela. you can call me KIran . i am from hyderabad.
-	i completed my graduation from Jntu hyderabad. in year 2015
+	My name is  Ravi Pagidipala. you can call me Ravi.
+	I am from hyderabad, state of Telangana.
+	I completed my graduation from JNTU Hyderabad in year 2010
 	after complete my graduation i joined as a intern in aktrix technologies.
 	after working six months as a intern i have been employed into Aktrix technologies 
 	i started my carrer as a software developer and my primary skillset is the UI development.
@@ -18,8 +19,9 @@ Tell me about yourself?
 	name
 	native place
 	Education qualifications
-	Experience 
+	Technical Experience
+	Non Technical Experience
 	Hobbies
-	Achievements.
+	Achievements
 	Goals
 	

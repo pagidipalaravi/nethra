@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 10.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:EDT
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+TZNAME:UTC
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER;CN="Oracle University":MAILTO:no-reply@oracle.com
+ATTENDEE;CN="ravi star";ROLE=REQ-PARTICIPANT;RSVP=TRUE:MAILTO:pagidipala.ravi@gmail.com
+LAST-MODIFIED:20210928T164744
+DESCRIPTION:Oracle Cloud Learning Subscription\nWelcome to Live Session\n\nGreetings ravi star! \n\nWelcome to Oracle University's live session for Oracle Cloud Infrastructure Foundations Exam Prep on Thursday, Sep 30th, 2021 (08:00 AM - 10:00 AM, America/New_York). \n\nBest wishes!\n\n-\n\nEvent: Oracle Cloud Infrastructure Foundations Exam Prep\n\nDate: Thursday, Sep 30th, 2021\n\nTime: 08:00 AM - 10:00 AM (America/New_York)\n\nClick Here to Attend the Session: https://learn.oracle.com/ols/event/ou/35644/97603/147898\n
+UID:20210930T0800001185760543@internal-mail-router.oracle.com
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta name=Generator content="Microsoft Word 15 (filtered medium)">
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="BZ25N-LFQX9-EELAZ-WGGFQ-3K6BM",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"BZ25N-LFQX9-EELAZ-WGGFQ-3K6BM",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="cookiepresent",n="ghg6wg3ipcv36ykti4ya-f-94f985288-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"32","ak.cp":"763188","ak.ai":parseInt("491950",10),"ak.ol":"0","ak.cr":24,"ak.ipv":4,"ak.proto":"h2","ak.rid":"7a89ab59","ak.r":26801,"ak.a2":e,"ak.m":"dscx","ak.n":"essl","ak.bpcip":"49.205.235.0","ak.cport":40600,"ak.gh":"123.176.32.4","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"","ak.t":"1632847664","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==vhI3W8FDO0JGJUue28wQiAZoeVU6LFLJXIOWOXSdNvhYZfjgpEbsk6egSY14UsbFd9TzjscngHYJshOSycTlDbUyJI1liAV9LOc5pejkfRR8dcH1VwzRShyL+6b0eomrzJ+QmyXO/fpY7Z1FC8MkqwKKYSH6sSI6Eilamwfru8zQjRvU5KcAGp0xxecSpjXMz/Apsw/mWCOy6Wgz9BpKCw1qsWLRrcwe3pJ7zfjol+0B3QLY7V5UYVDJJVwV+shrUIemxkvShPhPpGdFMhHDJvw8Y2kEJ/so+4xIYiPs1Y+499w7B3C+TmrYItT95Bb/EpE7EbY0YaJJlGDLR/IdY0Dmdcxt8AZyUj0PhP6O4xBOTaF7A93Qhcj828rLPXE48ap2bn5EEE5FSQ/lE/txR9Rj5WGzVRFTL1sqd6LGHQg=","ak.pv":"46","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head><body><p style="font-size: 16px"><strong>Oracle Cloud Learning Subscription</strong><br>Welcome to Live Session</p><p style="font-size: 16px">Greetings ravi star!</p><p style="font-size: 16px">Welcome to Oracle University's live session for <strong>Oracle Cloud Infrastructure Foundations Exam Prep</strong> on <strong>Thursday, Sep 30th, 2021 (08:00 AM - 10:00 AM, America/New_York)</strong>.</p><p style="font-size: 16px"><br><br>Best wishes!<br><br>-</p><p style="font-size: 16px"><strong>Event:</strong> Oracle Cloud Infrastructure Foundations Exam Prep</p><p style="font-size: 16px"><strong>Date:</strong> Thursday, Sep 30th, 2021</p><p style="font-size: 16px"><strong>Time:</strong> 08:00 AM - 10:00 AM (America/New_York)</p><p style="font-size: 16px"><a href="https://learn.oracle.com/ols/event/ou/35644/97603/147898">Click Here</a> to Attend the Session.</p></body></html>
+DTSTAMP:20210928T164744
+DTSTART;TZID="UTC":20210930T120000
+DTEND;TZID="UTC":20210930T140000
+RRULE:FREQ=DAILY;COUNT=1
+TRANSP:OPAQUE
+SEQUENCE:0
+SUMMARY:Oracle Cloud Learning Subscription Live Session Invite
+LOCATION:https://learn.oracle.com/ols/event/ou/35644/97603/147898
+CLASS:PUBLIC
+PRIORITY:5
+BEGIN:VALARM
+TRIGGER:-PT1440M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
