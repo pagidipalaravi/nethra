@@ -10,3 +10,17 @@ Define JavaScript statements?
 What are Semicolons ;
 	It is used to separate JavaScript statements.
 	You should add a semicolon at the end of each excutable statement.
+	When separated by semicolon, multiple statements in one line are allowed.
+What is the use of JavaScript White Space?
+	javascript ignores white spaces while executing, you can add white space to read the script easily.
+	Adding spaces around the operators is the good practise.
+Line Length and Line Breaks?
+	Programers are often like to avoid longer than 80 characters.
+	So if the javascript code is not fit in one line, then use line breaks to break the line.
+	The best place to break a line after an operator.
+what is the use of JavaScript Code Blocks?
+	JavaScript statements can be grouped together in code blocks inside the curly braces.
+	And also you can execute the statements together.
+What are JavaScript Keywords?
+	JavaScript statements are often starts with a keywords to identify the action to be performed.
+	

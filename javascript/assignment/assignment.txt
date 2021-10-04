@@ -1,0 +1,9 @@
+Define JavaScript Assignment Operator?
+	Assignment operators is used to assign values to variables.
+What are the types we can see in Assignment Operators?
+	The (+=) assignment operator is used to adds a value to variable.
+	The (-=) assignment operator is used to subtracts the value from a variable.
+	The (*=) assignment operator is used to multiplies the variable.
+	The (/=) assignment operator is used to divides a variable.
+	The (%=) assignment operator is used to assigns a remainder to a variable.
+	

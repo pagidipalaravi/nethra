@@ -1,0 +1,33 @@
+In how many ways we can write Javascript Variables?
+	There are three ways to declare a javascript variable:
+		Using var
+		Using let
+		using const
+What are variables?
+	Var is nothing but an variable, variables are the containers of storing data.
+What are Javascript Identifiers?
+	All javascript varables are must be identified with unique names.
+	These unique names are called identifiers.
+	Javascript identifiers are case-sensitive.
+What are the rules for constructing names for varables or unique identifiers?
+	Names can contain letters, digits, underscores and dollar signs.
+	Names must begin with a letter and can also begin with _ and $.
+	Javascript keywords cannot be used as a names.
+Define Assignment Operator?
+	Assignment operator is used to assign the values, it is not an "equal to" operator.
+What are Javascript Datatypes?
+	Javascript can hold numbers like 50 and text value like "john".
+	Text values are nothing but strings.
+	Numbers are written without quotes and strings are written within the quotes.
+What is Declaring Variable?
+	creating a varible in javascript is called declaring a variable.
+	To assign a value use equal to sign to the variable when you declare it.
+What is the result of the value if we not assign any value?
+	it will show the value as a undefined.
+Can we write many variables in one statement?
+	yes, we can write many varables in one statement with separating by comma.
+What is Re-Declaring Javascript Variables?
+	If we re-declare a variable, it will not lose its value.
+What is Javascript Arithmetic ?
+	We can do arithmetic with javascript variables by  using operators like = and +.
+	We can also add strings, but they will concatenated.

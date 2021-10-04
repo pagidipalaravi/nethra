@@ -1,0 +1,14 @@
+What is the use of Javascript Operators?
+	We use Javascript operators to assign the values to variables and add them together.
+Define Operator(=)?
+	It is not an "equal to", it is an assignment operator.
+	The assignment operator is used to assign value to a variable.
+Define operator(+, *)?
+	The operator (+) is used to add the numbers.
+	The operator (*) is used to multiply the numbers.
+What are Javascript String Operators?
+	The (+) operator is used to add or concatenate strings.
+	The (+=) operator is also used to add or concatenate  strings.
+What is the result of adding strings and Numbers?
+	Adding numbers will get sum, but adding string and number will get an string.
+	if you add a number and a string, the result will be string.

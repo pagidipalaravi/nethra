@@ -1,0 +1,17 @@
+Define Javascript let?
+	Variables defined with let keyword cannot be redeclared.
+	Variables defined with let have Block Scope.
+	Variables defines with let must be declared before use.
+What is the result if we redeclared the variable in let?
+	It will show the result as the variable has already been declared as an error.
+What is Block Scope?
+	ES6 has introduced two important new javascript keywords: let and const.
+	These two keywords provide Block Scope in javascript.
+	Variables declare inside a {} block cannot be accessed from outside the block.
+Define Redeclaring Variables in let?
+	Redeclaring the variable inside the block will not redeclare the variable outside the block.
+	Redeclaring a variable in the same block is not allowed.
+	Redeclaring a variable in other block is allowed.
+What is let Hoisting?
+	Variables defined with let are hoisted at the top of the block, but not initialized.
+	Using a let variable before it is declared, it will show an error as Referenceerror. 

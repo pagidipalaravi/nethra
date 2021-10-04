@@ -1,0 +1,22 @@
+h1
+{
+	color : Tomato;
+	border : solid green;
+}
+h2 {
+	background-color : rgba(10,50,30,0.2);
+	color : rgb(255,255,255);
+}
+h3 {
+	background-color : #ffddee;
+	color : #994477;
+}
+h4 {
+	background-color : hsl(230,50%,60%);
+	color : hsla(350,40%,20%,0.6);
+	
+}
+p {
+	background-color : pink;
+	color : Blue;
+}

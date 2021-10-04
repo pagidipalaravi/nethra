@@ -1,0 +1,19 @@
+p.dotted {
+	border-style : dotted solid ridge;/*dotted top, solid left and right, ridge bottom*/
+	border-width : medium;
+	border-color : rgb(33,55,250);/*rgb value*/
+}
+p.dashed {border-style : dashed;
+			border-width : 5px;
+			border-color : lightgreen;
+			border-radius : 5px;
+			}
+p.double {border-style : double;
+			border-width : 20px 5px;/*20px is for top and bottom, 5px for left and right*/
+			border-color : #ff0000;/*hex value*/
+}
+p.solid {border-style : solid;
+			border-width : 2px 5px 10px 15px; /*2px top, 5px right, 10px bottom, 15px left*/
+			border-color : pink green orange blue;
+			}
+p.ridge {border : 5px ridge green;}

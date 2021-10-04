@@ -1,0 +1,25 @@
+div {
+	width : 300px;
+	margin-top : 50px;
+	margin-right : 100px;
+	margin-bottom : 60px;
+	margin-left : 40px;
+	border : solid red;
+}
+p.ex2 {
+	margin : inherit;
+}
+h2 {
+	margin : 0 0 30px 0;
+}
+h3 {
+	margin : 50px 0 0 0;
+}
+p {
+	margin : auto;
+	border : 2px solid blue;
+	width : 150px;
+}
+p.ex1 {
+	margin : 30px 20px 50px 90px;
+}

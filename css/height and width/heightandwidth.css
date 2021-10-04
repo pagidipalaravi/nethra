@@ -1,0 +1,15 @@
+div {
+	width : 30%;
+	height : 300px;
+	background-color : lightgrey;
+}
+p {
+	width : auto;
+	height : initial;
+}
+div.ex1 {
+	max-width : 500px;
+	width : 700px;
+	height : 100px;
+	background-color : pink;
+}

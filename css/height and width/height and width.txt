@@ -1,0 +1,14 @@
+What is the use of CSS Height and Width properties?
+	The CSS height and width properties are used to set the height and width of an element.
+What are the property values we have for height and width properties?
+	Here are the following values:
+		auto - It will calculates the brower width and height.
+		length - It defines the height and width in px, cm, etc
+		% - It defines the height snd width in percentage of containing block.
+		intial - It sets the height/width to its default value.
+		inherit - The height/width inherited from the parent value.
+What is the use of Max-Width Property?
+	Max-Width Property is used to the maximum width of an e;element.
+	If the browser window is smaller than the width of an element, a horizontal scrollbar appears to the page.
+	so,to avoid that max-width property is used .
+	If some reason use both width and max-width property on same element, the browser will take the max-width property if the width property is larger.

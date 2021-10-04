@@ -1,0 +1,23 @@
+what are the Arithmetic operations?
+	A typical operation operates on two numbers or more, it may be literals or variables or expressions.
+what are Operators and Operands?
+	The numbers which are there in operation are called Operands.
+	The operation to be performed between two operands are called Operators.
+What are the different types of Operators?
+	The addition(+) operator adds the numbers.
+	The Subtracting(-) operator subtracts the numbers.
+	The Multiplication(*) operator multiplies the numbers.
+	The division(/) operator divides the numbers.
+	The modulus(%)operator shows the division remainder.
+	The incremen(++) operator increases the number.
+	The decrement(--) operator decreases the number.
+	The exponentiation(**) operator raises the first operand as the power of the second operand.
+What is an Operator precedence?
+	Operator Precedence describes the order in which operations are performed in an arithmetic Operation.
+	Example: let x = 100 + 20 * 5;
+		As in school mathematics, multiplication is done first because multiplication and division have high precedence.
+	When using parenthesis, the operators inside the parenthesis are computed first.
+		Example: let x = (100 + 20)*5;
+	When many operations have the same precedence like addition and subtraction, then they will computed from left to right.
+		Example: let x = 100 + 20 _5
+	

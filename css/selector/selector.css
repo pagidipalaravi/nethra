@@ -1,0 +1,17 @@
+p, h1, h2 {
+	text-align : center;
+	color : red;
+}	
+#para1 {
+	text-align : right;
+	color : blue;
+}
+
+p.center {
+	text-align : center large;
+	color : green;
+}
+* {
+	text-align : center;
+	color : orange;
+}
