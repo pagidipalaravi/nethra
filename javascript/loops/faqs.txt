@@ -1,0 +1,1 @@
+If you want to refer a current object properties in the object use this keyword.

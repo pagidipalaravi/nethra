@@ -1,0 +1,22 @@
+What is an Object?
+	object is an real time entity, it can be car, empoyee or a book etc.
+	Object consists of properties and behaviour.
+	We will define Object properties with variables and object behaviour with functions.
+Compare objects and variables?
+	Objects can be variables too, it means we can call objects as variables.
+	But, objects contains many values where as variables contains a single value.
+What is Object definition?
+	You can define or create a object with object literal.
+	It contains many values, values are written as name:value pairs.
+In how many ways we can write object properties?
+	We can access object properties in two ways:
+		- objectName.propertyName
+		-objectName["propertyName"]
+	but, here always recommended to use the first method only.
+What are Object Methods?
+	Objects  can also have methods.
+	Methods are actions that can be performed on objects.
+	Methods can be written in the properties as function definitions.
+What is "this" keyword?
+	if you want to refer current object in the object then use "this" keyword.
+	In a function definition, this keyword is the owner of the function.

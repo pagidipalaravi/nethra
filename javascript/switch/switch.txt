@@ -1,0 +1,22 @@
+What is Switch Statement?
+	Switch statement is used to perform different actions based on different conditions.
+	It is used to select one of many  code blocks to be executed.
+How Switch statement works?
+	Switch expression is valuated once, the value of expression is compared with value of each case.
+	If there is a match, the associated code block will be executed.
+	If there is no match, the default code block will be executed.
+What is the break Keyword?
+	It will terminate execution of current loop or condition and control will comes out of current loop or condition
+	When Javascript reaches the break keyword, it breaks out of the switch block.
+	This will stop the execution inside the switch block.
+What happens if we ignore break keyword?
+	If we omit the break keyword, it will execute the next case even if the evaluation not matches.
+Why we need to use default keyword?
+	The default keyword is used to specify the code to run if there is no case match.
+What are Common code blocks?
+	Sometimes if you want to give same code block to the different switch cases, then use common code blocks.
+Give some details about Switching ?
+	If multiple cases matches a case value, the first value will be selected.
+	If no matching cases are found, then default text will be selected.
+	If there is no default text found, then the program continues to the statement after the switch.
+	

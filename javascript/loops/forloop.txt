@@ -1,0 +1,30 @@
+What are Javascript For Loop?
+	If you want to run the same code number of times, each time with different values then use for loop.
+What are the different kinds of Loops?
+	Javascript supports different kinds of loops:
+		-for
+		-for/in
+		-for/of
+		-while
+		-do/while
+Define For Loop?
+	The for loop has the three statements:
+	statement 1 : it will execute one time before the execution of code block.
+	statement 2 : it defines the condition for executing the code block.
+	statement 3 : it will execute every time after the code block is executed.
+Define Statement 1?
+	You will use statement1 to intialize the variable .
+	This is not always a case, Javascript doesnt care, statement 1 is optional.
+	You can initiate many values in statement1 separated by comma.
+Define Statement 2?
+	Statement2 is used to evaluate the condition of the initial variable.
+	Statement2 is also optional.
+	If statement2 returns true, the loop will starts again, if returns false, the loop will end.
+Define Statement 3?
+	statement 3 increments the value of the initial variable.
+	Statement 3 is also optional.
+What is Loop Scope?
+	You should use let variable inside the loop, where using var will not give the exact result.
+	
+	
+

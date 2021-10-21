@@ -1,0 +1,18 @@
+What are javscript Strings?
+	A Javascript string is zero or more characters written inside the quotes.
+	You can use single or double quotes.
+	Javascript strings are used for storing and manupulating the text.
+How can we find length of a string?
+	we can find length of a string by using the built-in length property.
+What is an Escape Character?
+	If we use same quotes within the strings, Javascript will misunderstand this string.
+	so, to avoid this we have to use backslash escape character.
+	This backslash(\)escape character turns special character into string characters.
+How can we break long line codes?
+	We can break the code line by using string addition.
+	We can also break up a long code line within the text string by using single backslash.
+	The best place to break the code is after an operator.
+How can we define strings as an objects?
+	Generally, javscript strings are primitive values, created from literals.
+	But strings can also be defined as objects by using keyword "new".
+	

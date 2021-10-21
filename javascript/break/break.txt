@@ -1,0 +1,8 @@
+What is the use of break statement?
+	The break statement jumps out of the loop.
+	It will terminate the execution of current loop or condition and control will comes out of loop or condition.
+	It will end the loop when using break statement.
+What is the use of continue statement?
+	The continue statement is used to break one iteration in the loop.
+	It will break particular iteration, if a condition occurs and continues with the next iteration in the loop.
+	
