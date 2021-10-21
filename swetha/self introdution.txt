@@ -1,16 +1,19 @@
-Hello all, Good Morning All, I am Nethra.
+Hello all, Good Morning All, I am Swetha.
 How are you? Are able to here me clearly?
 
 Tell me about yourself?
-
-	My name is  Nethra Bellamkonda. you can call me Nethra.
+	My name is  Swetha Bellamkonda. you can call me Swetha.
 	I am from hyderabad, state of Telangana.
-	I completed my graduation from JNTU Hyderabad in year 2021
+	I completed my graduation from JNTU Hyderabad in year 2019
 	after complete my graduation i joined as a intern in aktrix technologies.
 	
 	after working six months as a intern i have been employed into Aktrix technologies 
 	i started my carrer as a software developer and my primary skillset is the UI development.
 	and my secondary skill is java and Sql.i can work on java and database also.  
+	i have been invovleved in devloping mockups, functional documents and low level design documents.
+	
+	i am a Quick learner and interest in learning new technologies.
+	currently i am working for a project Vodafone and involeving in development as well as support.
 	i have been invovleved in devloping mockups, functional documents and low level design documents.
 
 	Greetings

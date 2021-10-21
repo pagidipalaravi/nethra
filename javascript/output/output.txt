@@ -1,0 +1,19 @@
+what are the ways we have in JavaScript to Display Possibilities?
+	JavaScript can display data in different ways:
+	By using innerHTML-
+		To access an HTML element, javascript can use the document.getElementById(id) method.
+		This id attribute defines the HTML element and the content inside the HTML element is the innerHTML.
+	By using document.write()-
+		It is used for testing purpose.
+		Using document.write() after an HTML document is loaded, it will delete all exixting element.
+		The document.write() should be used only for testing.
+	By using window.alert()
+		We can use an alert box to display data.
+		we can skip the window keyword in window.alert, it is an optinal.
+	By using console.log()
+		It is used for debugging purpose.
+		If we want to display data in console, then write data in console.log() method.
+	By using JavaScript Print
+		javascript does not have any print object or print methods.
+		You have to call window.print() method in the browser to print the current page.
+		you cannot access output devices from javascript.

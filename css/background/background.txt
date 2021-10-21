@@ -1,0 +1,10 @@
+Define CSS Backgrounds and its properties?
+	CSS background properties are used to background effects for elements.
+		Background-color
+		background-image
+		background-repeat 
+		background-attachment
+		background-position
+What is background-color property?
+	The background-color property specifies the background color of an element.
+	You can set the background color for any HTML elements.

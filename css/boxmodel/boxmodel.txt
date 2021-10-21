@@ -1,0 +1,25 @@
+What Is the use of Box Model?
+	In CSS, Box Model is used to design and layout of an element.
+What is the structure of Box Model?
+	The CSS box model is essentially a box that wraps around each html element.
+	It consists of: actual content, padding, border and margin.
+How to add width and height of an element?
+	When you set the width and height of an element, you must also add padding, border and margin to that element.
+	You have to add because to calculate the full size of an element.
+	Example: To claculate the width of an element.
+	div {
+		width : 300px;
+		padding : 50px;
+		border : 10px solid yellow;
+		margin : 30px;
+		background-color : lightblue;
+		}
+	Here is the Calculatio:
+		300px (width)
+		+(50+50)-left and right padding
+		+(10+10)-left and right border
+		+(30+30)-left and right margin
+		=480
+How to calculate height of an element?
+	To claculate the total height of an element add top and bottom of margin, padding and border.
+	

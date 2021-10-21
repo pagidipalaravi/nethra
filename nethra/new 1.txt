@@ -1,0 +1,10 @@
+Where are you calling from?
+Which Oraganization are you calling?
+What is the Job Discription?
+	UI Developer
+		
+Please share your Votercard, Pancard, DOB, Aadhar Card
+Please a drop a mail from your official mail id and Oraganization details
+
+swathi.kodepaka @aktrix.com
+info			@aktrix.com

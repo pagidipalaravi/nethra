@@ -1,0 +1,26 @@
+What are CSS colors?
+	Colors are specified using predefined color names, or RGB, HEX, HSL, RGBA, HSLA.
+Define Color Names?
+	In CSS, a color can be specified by predefined color names.
+How to use background color to an element?
+	We can use background by using background-color property.
+What is  CSS Border color?
+	You can set the color for borders by using border property.
+Define RGB value ?
+	In CSS, a color can be specified as an RGB value represents Red, Green and Blue.
+	Each parameter red, green and blue defines the intensity of the color between 0 and 255.
+How can we get black and white colors by using RGB values ?
+	To display black, set all the parameters to 0 like rgb(0, 0, 0).
+	To display white, set all the color parameters to 255 like rgb(255, 255, 255).
+What is RGBA value?
+	RGBA color values are the extention of rgb color values with alpha,	it specifies the opacity of the color.
+	which it represents rgba(red, green, blue, alpha)
+What are CSS HEX colors?
+	In CSS, a color can be specified using a hexadecimal form like (#rrggbb), which indicates red, green and blue.
+	The hexadecimal values are specified between 00 and ff.
+	Sometimes we can write as a three digit code in css like (#f3c), it is possible when both the values are same for each components.
+What are CSS HSL Colors?
+	HSL stands for hue, saturation and lightness.
+	Hue defines the intensity of color between 0 and 360.
+	Saturation is a percentage value, 0% is gray and 100% is the full color.
+	Lightness is also a percentage, 0% is black and 100% is white.

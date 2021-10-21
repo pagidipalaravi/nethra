@@ -1,0 +1,11 @@
+What is the use of JavaScript comments?
+	JavaScript comments are used to explain javascript code, and make it read easily.
+	javascript comments are also used to prevent execution, when testing alternative code.
+Define Single Line Comments?
+	Single line comments starts with // and are ignored by the browser while executing.
+what are multi Line Comments?
+	Multi line comments starts with /* and ends with */.
+	Any text between /* and */ will be ignored by JavaScript.
+How can we use comments to prevent execution?
+	By adding // in front of a code line will change the code line to comment from an excecutable line.
+	Use /* and */ as a comment block to prevent the execution of multiple lines.

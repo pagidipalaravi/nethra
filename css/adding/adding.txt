@@ -1,0 +1,21 @@
+what are the ways we are having to insert CSS?
+	There are three ways to insert CSS:
+		inline css
+		internal css 
+		external css
+What is an External CSS?
+	With external style sheet, you can change the entire look of an website by changing just one file.
+	Each html page must include a reference to a external style sheet inside the <link> element.
+	The style sheet file must be saved with extension of css and should not contain any html tags.
+What is an internal CSS?
+	The internal style sheet is used if only one single html page has unique style.
+	The internal style is defined inside the <style> element, in the <head> section.
+What is Inline CSS?
+	Àn inline style is used to apply a unique style for a single element.
+	To use inline style, add style property to the relevant element andthe style property can contain any CSS property.
+What are Multiple Style Sheet?
+	If some properties have been defined for the same selector in different style sheets, the value from the last style sheet will be used.
+Which style is priority	among the three styles?
+	Inline style is the first priority.
+Which style is recommended to use in html code?
+	External style sheet is the recommended to use.

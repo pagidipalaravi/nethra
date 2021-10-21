@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel = "stylesheet" href = "createemployee.css"></link>
+		<script src = "createemployee.js"></script>
+	</head>
+	<body>
+		<div class = "employeeForm">
+		<form>
+			<label for = "employeeId">Employee Id*</label>
+			<input type = "number" id = "employeeId" value = "" required><br><br>
+			<label for = "employeefirstName">First Name*</label>
+			<input type = "text" id = "employeefirstName" value = "" placeholder = "Enter your First Name" required><br><br>
+			<label for = "employeelastName">Last Name*</label>
+			<input type = "text" id = "employeelastName" value = "" placeholder = "Enter your Last Name" required><br><br>
+			<label for = "email">Email*</label>
+			<input type = "email" id = "email" value = "" placeholder = "Enter your Email" required><br><br>
+			<label for = "phoneNumber">Phone Number*</label>
+			<input type = "tel" id = "phoneNumber" value = "" placeholder = "Enter Phone Number" required><br><br>
+			<label for = "hireDate">Hire Date*</label>
+			<input type = "date" id = "hireDate" value = "" name = "hireDate" required><br><br>
+			<label for = "salary">Salary*</label>
+			<input type = "number" id = "salary" value = "" name = "salary" required><br><br>
+			<label for = "jobId">Job Id*</label>
+			<input type = "text" id = "jobId" value = "" required><br><br>
+			<label for = "commisionPct">Commission Pct*</label>
+			<input type = "text" id = "commissionPct" value = "" required><br><br>
+			<label for = "managerId">Manager Id*</label>
+			<input type = "number" id = "managerId" value = "" required><br><br>
+			<label for = "departmentId">Department Id*</label>
+			<input type = "number" id = "departmentId" value = "" required><br><br>
+			<button type = "submit" onclick = "createemployee()">Submit</button>
+		</form>
+		</div>
+	</body>
+</html>

@@ -1,0 +1,18 @@
+Define CSS Borders?
+	The CSS border properties allows you to specify the style, width and color of an elements border.
+What is border-style property?
+	Border-style property specifies what kind of border to display like dotted, dashed, solid etc.
+what is border-width property?
+	Border-width property specifies the width of the four borders.
+	The width can be set as a specific size in px, em, cm etc oy by using predefined values like thin, medium or thick.
+What is border-color property?
+	The border-color property is used to set the color of the four borders.
+What is CSS Border sides ?
+	In css, there are also properties to specify different border for each side by using border-style property.
+What is border-Shorthand Property?
+	To shorten the code, it is possible to specify all individual border properties in single property.
+What are CSS Rounded Borders?
+	The border-radius property is used to add round borders to an element.
+
+		
+		

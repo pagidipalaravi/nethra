@@ -1,0 +1,17 @@
+What is the use of CSS Margins?
+	In CSS, Margins are used to create space around an element, outside of any border.
+How can we specify margins?
+	CSS properties specifies the margin for an each element:
+		margin-top
+		margin-right
+		margin-left
+		margin bottom
+What are the different property values in margins?
+	auto -The browser itself calculates the margin.
+	length -It specifies a margin in px,cm,pt,etc
+	% -It specifies the margin in % of the width of an element.
+	inherit -It specifies that the margin is inherited from the parent element.
+What is Margin-shortand Property?
+	To shorten the code, it is possible to specify all the individual properties in a single property.
+What is Margin-collapse property ?
+	Top and bottom margins of elements are sometimes collapsed into a single margin that is equal to the highest of the two margins. 

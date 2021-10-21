@@ -1,0 +1,18 @@
+div {
+	padding-top : 5px;
+	padding-right : 10px;
+	padding-bottom : 15px;
+	padding-left : 20px;
+	border : 2px solid yellow;
+	background-color : lightgreen;
+}
+p.ex1 {
+	padding : 20px 10px 5px 15px; /*20px top 10px right 5px bottom 15px left*/
+	background-color : powderblue;
+}
+div.ex2 {
+	width : 200px;
+	padding : 20px 15px 10px;/*20px top 15px right and left 10px bottom*/
+	background-color : lightpink;
+	border : 3px solid green;
+}

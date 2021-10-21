@@ -1,0 +1,43 @@
+var arr = [-35,12,3,0,-22,11,26,5,10,-40,23];
+
+Find the minimum and maximum element in the array using
+
+ a. Only using a Array built-in functions.
+b. Using a normal for loop.
+What are closures?
+how to identify html code in Javascript?
+What is Boxmodel and width in boxmodel?
+how to identify element using javascript?
+what are pseudo classes and elements?
+How to display pseudo classes?
+How to change lower case letters to uppercase?
+What are the ways to style css?
+What are the types of css selectors?
+How to give color to even and odd elements?
+What are media queries?
+when to use px,em,% in css?
+Explain document.getElementById()
+Difference between absolute position and relative position?
+Difference between undefined and undeclared?
+.innerHTML=number
+ 
+ <p style = "color: red">This is a para.</p>
+ <link rel = "stylesheet" href = "external.css"></link>
+ p {
+	color : "red";
+ }
+ <div>
+<p>One</p>
+<p>Two</p>
+<p>Three</p>
+<p>Four</p>
+</div>
+
+div {
+	p: nth-child(odd) {
+		color : red;
+	}
+	p: nth-child(even) {
+		color : green;
+	}
+}

@@ -1,5 +1,65 @@
 HTML Lists
 	HTML lists allows the web developer to group the related items in lists.
 Unordered HTML List
-	An unodered list starts with <ul> tag and each list item starts with <li> tag.
+	An unordered list starts with <ul> tag and each list item starts with <li> tag.
 	The list items will be marked with bullets by default. 
+	Here we are having some values to define the style of the list item marker by using list-style-type property.
+	Example
+		Disc
+			<ul style="list-style-type: disc">
+		Square
+			<ul style="list-style-type: square">
+		none
+			<ul style="list-style-type: none">
+	Nested HTML List
+		Lists can be nested, it means element contains other element.
+		Example
+				<li>milk</li>
+			<li>tea</li>
+				<ul>
+					<li>green tea</li>
+					<li>black tea<li>
+				</ul>
+	Horizontal List with CSS
+	HTML lists can be styled in many different ways with CSS.
+	One popular way is to style a list horizontally, to create a navigation menu.
+Ordered HTML list
+	An ordered list starts with an <ol> tag. An ordered list can be numerical or alphabetical.
+	By default, ordered list will take numbers.
+	The type attribute of <ol> tag defines the type of the list item marker, here are the values:
+	type="1": The list items will be numbered with numbers (by default).
+	Example
+		<ol type="1">
+	type="A": The list items will be numbered with uppercase letters.
+	Example
+		<ol type="A">
+	type="a": The list items will be numbered with lowercase letters.
+	Example
+		<ol type="a">
+	type="I": The list items will be numbered with uppercase Roman Numbers.
+	Example
+		<ol type="I">
+	type="i": The list items will be numbered with lowercase Roman Numbers.
+	Example
+		<ol type="i">
+	Control List Counting
+		By default, an ordered list will start count from 1, if you want to start from a specified number then use start attribute.
+		Example
+			<ol start="50">
+	Nested HTML Lists
+		Lists can be nested it means that list contain other lists.
+HTML Description Lists
+	A description list is a list of terms with a description of each term.
+	The <dl> tag defines the description list.
+	The <dt> tag defines the description term.
+	The <dd> tag describes the each term.
+	
+		
+	
+>
+	
+		
+	
+	
+		
+

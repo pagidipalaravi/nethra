@@ -1,0 +1,27 @@
+What are Javascript Functions?
+	A Javascript Function is a block of code designed to perform a particular task.
+	A Javascript Function is executed when something invokes it.
+Define Javascript Function Syntax?
+	Javascript function is defined with the function keyword, followed by name, followed by parentheses().
+	Function name contains letters, digits, underscores and dollar signs.
+How to define Parameters?
+	The parentheses may include parameter names separated by comma.
+	Function parameters are placed inside the parentheses() in function definition.
+	Function arguments are the values received by the function when it is invoked.
+	Inside the function, the parameters behaves like a local variables.
+What is Function Invocation?
+	The code inside the function will execute when something invokes or calls the function: 
+	When an event occurs (when a user clicks a button).
+	When it is invoked it means called  from JavaScript code.
+	Automatically (self invoked).
+What is Function Return?
+	When JavaScript reaches a return statement, the function will stop executing.
+	Functions are often compute a return value, and the return value is "returned" back to the "caller".
+Why functions are used?
+	Functions are used to reuse the code, it means define the code once, and use it many times.
+	You can use the same code many times with different arguments.
+What are Local Variables?
+	Variables declared inside the function will become the local to the function.
+	Local Variables are only be accessed within the function.
+	Local variables are created when function starts and deleted when function stops.
+	Local variables are only recognized inside the function, variables with same name can be used in different functions.

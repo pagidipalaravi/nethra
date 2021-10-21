@@ -1,0 +1,37 @@
+What are string methods and properties?
+	Primitive values cannot have properties or methods because they are not objects.
+	But in javascript, methods and properties are also available for primitive values because javascript treats primitive values as objects.
+What are extracting string parts?
+	There are 3 methods for extracting a part of string:
+		slice(start,end)
+		substring(start,end)
+		substr(start,length)
+What is slice() method?
+	slice() extracts a part of string and returns the extracted part in new string.
+	This method takes 2 parameters: start position and end position(not included).
+What is substring() Method?
+	Substring() is similar to the slice() method.
+	The only difference is that substring() cannot accept negative values.
+What is substr() Method?
+	Substr() is also similar to slice() Method.
+	The difference is that the second parameter specifies the length of the extracted part.
+	If the first parameter is negative, then the count starts from the end of the string.
+How can we replace string content?
+	we can replce a specified value with another value in a string by using replace() method.
+	By default, the replace() method replaces only the first match.
+	The replace() method is a case sensitive.
+How can we replace case insensitive ?
+	We can replace case insensitive by using a regular expression with  an /i flag.
+How can we replace all matches?
+	To replace all matches, use a regular expression with a /g flag.
+How can we convert lower to upper case and upper to lower case?
+	We can convert a string to upper case with toUpperCase() method.
+	And we can convert a string to lower case with tolowercase() method.
+What is concat() method?
+	The concat() method joins two or more strings.
+	The concat() method can be used instead of plus operator, both will do the same.
+What is string.trim() method?
+	The trim() method removes whitespace from both sides of a string.
+What is javascript string padding?
+	ECMAScript 2017 added two string methods:
+	padStart and padEnd to support padding at the beginning and at the end of the string.

@@ -1,0 +1,28 @@
+What are the types we have in CSS Selectors?
+	CSS Selectors are divided into five categories:
+		Simple Selectors
+		Combinator Selectors
+		Pseudo-class Selectors
+		Pseudo-element Selectors
+		Attribute element 
+What are the Simple Selectors?
+	Simple selectors selects  HTML elements based on name, id and class.
+Define The CSS element Selector?
+	CSS element selector selects html elements based on element name.
+Define CSS id Selector?
+	The id selector uses id attribute of an html element to select specific element.
+	The id of an element should be unique within the page.
+	If you want to select element with specific id, then use hash(#) character then followed by id of an element.
+What is CSS Class Selector?
+	The class selector slects html element with a specific class attribute.
+	To select element with specific class, use (.)character then followed by the class name. 
+	You can also specify that only specific element should be affected by a class.
+	HTML elements can also refer more than one class.
+What is Universal Selector?
+	The Universal selector selects all the html elements within in the page.
+	It can be defined with (*) character.
+What is Grouping Selectors?
+	The grouping selector selects all the html elements with same style.
+	It is better to use grouping selector, if the elements required the same styles.
+	To group selectors, separate each selector with comma.
+	

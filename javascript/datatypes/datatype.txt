@@ -1,0 +1,30 @@
+What is Javascript Data Types?
+	Javascript variables can hold different datatypes such as numbers, strings , objects and many more.
+What is the concept of Data Types?
+	In programming, datatypes are importantt concept.
+	To be able to operate on variables, it is important to know something about the type.
+	Without datatypes, it is dificult for the computer to solve.
+Is Javascript types are dynamic ?
+	yes, javascript types are dynamic this means that the same variable can be used to hold different datatypes.
+What are Javascript Strings?
+	A string or a text string is a series of characters can be written within single or double quotes.
+	If you want the text in single quote, use double quotes.
+	If you want the text in double quotes,use single quotes.
+What are Javascript Numbers?
+	Javascript has only one type of numbers.
+	Numbers can be written with or without decimals.
+What are Javascript Booleans?
+	Booleans can only have two values : true or false.
+	Booleans are often used in conditional testing
+What are Javascript Arrays?
+	Javascript Arrays are written in square brackets and the array items are separated with comma.
+	Arrays are started with index zero, it means the first item is [0]
+What are Javascript Objects?
+	Javascript Objects are written in curly braces .
+	Properties are written as name: value pairs and are separated by comma.
+What is the typeof Operator?
+	You can use the JavaScript typeof operator to find the type of a JavaScript variable.
+	The typeof operator returns the type of a variable or an expression
+What are Empty Values?
+	An empty value has nothing to do with undefined.
+	An empty string has both a legal value and a type.
