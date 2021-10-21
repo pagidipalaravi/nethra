@@ -5,7 +5,7 @@ what is HTML?
 What is <!doctype html>?
 	It defines that this document is an HTML5 document.
 	It must be written in the top of the page.
-	we are giving information to the browser that this document is an html document.
+	we are giving information to the browser that this document is an html5 document.
 	Browser also compiles the html document by following html5 standards.
 what is <html>?
 	This is the root element in html page.

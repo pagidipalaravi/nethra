@@ -1,19 +1,17 @@
 Hello all, I am Ravi, Good Morning All, How are you? Are able to here me clearly?
 
 Tell me about yourself?
-	My name is  Ravi Pagidipala. you can call me Ravi.
+	My name is Ravi Pagidipala. You can call me Ravi.
 	I am from hyderabad, state of Telangana.
-	I completed my graduation from JNTU Hyderabad in year 2010
-	after complete my graduation i joined as a intern in aktrix technologies.
-	after working six months as a intern i have been employed into Aktrix technologies 
-	i started my carrer as a software developer and my primary skillset is the UI development.
-	and my secondary skill is java and Sql.i can work on java and database also.  
-	i have been invovleved in devloping mockups, functional documents and low level design documents.
-	i am a Quick learner and interest in learning new technologies. 
-	currently i am working for a project payroll and involeving in development as well as support.
-	i have been invovleved in devloping mockups, functional documents and low level design documents.
-	i am a Quick learner and interest in learning new technologies. 
-	currently i am working for a project payroll and involeving in development as well as support.
+	I completed my graduation from JNTU Hyderabad in year 2010.
+	After completing my graduation, I joined as a intern in aktrix technologies.
+	After working six months as a intern, I have been employed into Aktrix technologies. 
+	I started my carrer as a software developer and my primary skillset is the UI development.
+	My secondary skill is java and Sql and I can work on java and database also.  
+	I have been invovleved in devloping mockups, functional documents and low level design documents.
+	I am a Quick learner and interest in learning new technologies. 
+	Currently I am working for a project called payroll and involeving in development as well as support.
+	I have been involved in devloping mockups, functional documents and low level design documents.
 	
 	Greetings
 	name
