@@ -1,4 +1,4 @@
-What are the types we have in CSS Selectors?
+What are the types of selectors in CSS?
 	CSS Selectors are divided into five categories:
 		Simple Selectors
 		Combinator Selectors
@@ -6,12 +6,12 @@ What are the types we have in CSS Selectors?
 		Pseudo-element Selectors
 		Attribute element 
 What are the Simple Selectors?
-	Simple selectors selects  HTML elements based on name, id and class.
+	Simple selectors selects  HTML elements based on element, id and class.
 Define The CSS element Selector?
 	CSS element selector selects html elements based on element name.
 Define CSS id Selector?
 	The id selector uses id attribute of an html element to select specific element.
-	The id of an element should be unique within the page.
+	The id of an element  must be unique within the page.
 	If you want to select element with specific id, then use hash(#) character then followed by id of an element.
 What is CSS Class Selector?
 	The class selector slects html element with a specific class attribute.
