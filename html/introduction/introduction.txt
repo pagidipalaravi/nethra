@@ -1,18 +1,21 @@
-what is HTML?
+What is HTML?
 	HTML stands for Hyper Text Markup Language.
-	It is the only language to create a webpage. It describes the structure of a Web page.
-	It consist of many elements. Elements tell the browser how to display the content.
+	It is the only language to create a webpage.
+	It describes the structure of a Web page.
+	It consist of many elements (approx 100).
+	Elements tell the browser how to display the content.
+--
 What is <!doctype html>?
 	It defines that this document is an HTML5 document.
 	It must be written in the top of the page.
-	we are giving information to the browser that this document is an html5 document.
+	We are giving information to the browser that this document is an html5 document.
 	Browser also compiles the html document by following html5 standards.
 what is <html>?
 	This is the root element in html page.
 what is <head>?
-	It Contains meta information about the page.
+	It contains meta information about the page.
 	The content which is written in this element will not be visible in the web page.
-what is  <title>?
+what is <title>?
 	It specifies a title for the HTML page.
 	It is shown in the browser's title bar or in the page's tab.
 what is <body>?
@@ -25,7 +28,7 @@ what is <p>?
 	This element defines a paragraph.
 What is an HTML Element?
  	HTML elements tell the browser how to display the content.
-	HTML element is defined by start tag, some content, an end tag.
+	HTML element is defined by start tag, some content, and end tag.
 	--
 	Syntax:
 		<tag-name>Some content here</tag-name>
@@ -36,6 +39,7 @@ What is an HTML Element?
 	Some elements have no content they are <br>
 	These elements are called as empty elements, empty elements have no end tag.
 ==
+What is difference between element and tag?
 What is the difference between web browser and web server?
 	web browser
 		It will be installed in client machine.
