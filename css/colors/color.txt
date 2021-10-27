@@ -1,5 +1,5 @@
-What are CSS colors?
-	Colors are specified using predefined color names, or RGB, HEX, HSL, RGBA, HSLA.
+In how many ways we can define CSS colors?
+	Colors are defined by using predefined color names,  RGB, HEX, HSL, RGBA, HSLA.
 Define Color Names?
 	In CSS, a color can be specified by predefined color names.
 How to use background color to an element?
@@ -19,7 +19,7 @@ What are CSS HEX colors?
 	In CSS, a color can be specified using a hexadecimal form like (#rrggbb), which indicates red, green and blue.
 	The hexadecimal values are specified between 00 and ff.
 	Sometimes we can write as a three digit code in css like (#f3c), it is possible when both the values are same for each components.
-What are CSS HSL Colors?
+What are CSS HSL Colors?	
 	HSL stands for hue, saturation and lightness.
 	Hue defines the intensity of color between 0 and 360.
 	Saturation is a percentage value, 0% is gray and 100% is the full color.
