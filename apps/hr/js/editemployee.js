@@ -1,3 +1,28 @@
+function editEmployee() {
+		//read employeeId from the Event
+		//let employeeId = document.getElementById("217");
+		//call a javascript function getElementById(){}
+	getElementById(employeeId);
+}
+function readValue(){
+	localStorage.getItem("employeeId");
+	console.log("employeeId ="+ employeeId);
+}
+function getElementById(employeeId){
+	console.log(event);
+	let employeeArray = ["employeeId":217,"firstName":"surya","lastName":"pagidipala","email":"surya123@gmail.com","phoneNumber":"9182550827","hireDate":"2021-01-15","salary":10000.0,"jobId":"IT_PROG","commisionPct":null,"managerId":103,"departmentId":60];
+	document.getElementById("employeeId").value = employeeArray.employeeId;
+	document.getElementById("firstName").value = employeeArray.firstName;
+	document.getElementById("lastName").value = employeeArray.lastName;
+	document.getElementById("email").value = employeeArray.email;
+	document.getElementById("phoneNumber").value = employeeArray.phoneNumber;
+	document.getElementById("hireDate").value = employeeArray.hireDate;
+	document.getElementById("salary").value = employeeArray.salary;
+	document.getElementById("job").value = employeeArray.jobId;
+	document.getElementById("commisionPct").value = employeeArray.commisionPct;
+	document.getElementById("manager").value = employeeArray.managerId;
+	document.getElementById("department").value = employeeArray.departmentId;
+}
 function employeeIdkeypress() {	
 	document.getElementById("message").innerHTML = "";
 	if(isSpace(event.keyCode)) {

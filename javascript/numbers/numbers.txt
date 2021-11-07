@@ -1,0 +1,21 @@
+What are Javascript Numbers?
+	Javascript has only one type of Number, Numbers can be written with or without decimals.
+When we will use exponenet notation in Javascript?
+	We use exponenet notation when extra large or extra small numbers are written.
+How can we define adding Numbers and strings?
+	If you add two numbers the result will be Number.
+	If you add two strings the result will be string concatenation.
+	if you add a number and string the result will be string concatenation.
+	If you add a string and a number the result will be string concatenation.
+What are Numeric Strings?
+	Javascript strings have numeric content.
+	Javascript will try to convert strings to numbers in all numeric operations but not in addition operation.
+	The addition operation will concate two strings.
+What is NaN?
+	NaN(Not a Number) is a javascript reserved word indicating that number is not a legal number.
+	If we are trying to do an arthemetic with non numeric string will result as NaN.
+	If the string contains a numeric value, then the result will be a number.
+	If we given mathematical operation as NaN, then the result will be NaN.
+How can we define Numbers as an objects?
+	Generally, Javascript Numbers are primitive values created from literals.
+	But Numbers can also be defined as objects with the keyword new.

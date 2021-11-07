@@ -104,7 +104,7 @@ function phoneNumberkeypress(){
 		return true;
 	}
 }
-function hireDatekeypress(){
+function hireDatekeyPress(){
 		var date_regex = /^(0[1-9]|1[0-2])\/(0[1-9]|1\d|2\d|3[01])\/(0[1-9]|1[1-9]|2[1-9])$/;
         var testDate =document.getElementById("hireDate").value;
         if (date_regex.test(testDate)) {
@@ -138,30 +138,10 @@ function jobkeypress(){
 		return true;
 	}
 }
-function commisionPctkeypress(){
+function commisionPctkeyPress(){
 	document.getElementById("message").innerHTML="";
 	if(isSpace(event.keyCode)) {
 		return false;
-	}
-}
-function managerkeypress() {
-	document.getElementById("message").innerHTML = "";
-	if(isSpace(event.keyCode)) {
-		return false;
-	}else if(isSpecialCharacter(event.key)) {
-		return false;
-	}else {
-		return true;
-	}
-}
-function departmentkeypress() {
-	document.getElementById("message").innerHTML = "";
-	if(isSpace(event.keyCode)) {
-		return false;
-	}else if (isSpecialCharacter(event.key)) {
-		return false;
-	}else {
-		return true;
 	}
 }
 function createemployee() {

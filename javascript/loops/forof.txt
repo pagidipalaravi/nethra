@@ -1,0 +1,15 @@
+What is forof loop?
+	The javascript for of statement loops through the values of an iterable object.
+	The for of will let you loop over iterable data structures such as : Arrays, Strings, Maps, NodeLists and more.
+What is the advantage of using for of loop?
+	The for of loop will make the better performance than regular for loop.
+	And for of loop will avoid the mistakes which we may do in the regular for loop.
+	And also it will execute fast when compared to regular for loop.
+	syntax : 
+		for(variable of iterable){
+			//code block to be executed
+		}
+	variable - For every iteration the value of next property will assigned to the variable, variable can be declared with const, let or var.
+	iterable - An object that has iterable properties.
+
+	

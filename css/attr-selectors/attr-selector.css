@@ -1,0 +1,15 @@
+a[target] {
+	background-color : yellow;
+}
+a[target = _blank] {
+	background-color : green;
+}
+[class|=top] {
+	background-color : pink;
+}
+[class^=top] {
+	color : blue;
+}
+[class$=test] {
+	color : orange
+}

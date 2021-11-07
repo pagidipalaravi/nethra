@@ -1,0 +1,3 @@
+What is code deebugging?
+	programming code might contain syntax errors and these errors are difficult to diagnose.
+	

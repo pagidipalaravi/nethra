@@ -1,0 +1,17 @@
+What is Class in Javascript?
+	class is an logical entity and it is a combination of both properties and methods.
+	class is not an object, it is an template for javascript objects.
+What is the Object in Javascript?
+	Object is an phisical entity and we can create n number objects by using class.
+What is the Constructor in Javascript?
+	Constructor method is a special method used to constuct an objects.
+	It has to have the exact name as constructor itself not the other name like construct or constructors.
+When the Constructor is executed?
+	Constructor method is called or executed automatically when the new objects are created.
+What is the purpose of Constructor?
+	The purpose of Constructor is used to initialize the object properties.
+How to create an object for the class?
+	Use the class keyword to create a class and always add a constructor() method.
+	Then add any number of methods.
+What is the use of new keyword?
+	We can use new keyword to create an new object.

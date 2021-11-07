@@ -2,9 +2,9 @@
 <html>
 	<head>
 		<link rel = "stylesheet" href = "createemployee.css"></link>
-		<script src = "createemployee.js"></script>
+		<script src = "editemployee.js"></script>
 	</head>
-	<body>
+	<body onload = editEmployee()>
 		<div class = "employeeForm">
 		<h1>Employee Form</h1>
 		<p id ="message"></p>
@@ -44,7 +44,7 @@
 			</div>
 			<div class = "column">
 			<label for = "commisionPct">Commission Pct*</label>
-			<input type = "text" id = "commissionPct" value = "" required  step="0.01" onkeypress = "return commissionPctkeypress()"><br><br>
+			<input type = "text" id = "commisionPct" value = "" required  step="0.01" onkeypress = "return commisionPctkeypress()"><br><br>
 			</div>
 			<div class = "column">
 			<label for = "manager">Manager*</label>
@@ -55,7 +55,7 @@
 			<input type = "text" id = "department" value = "" required onkeypress = "return departmentkeypress()"><br><br>
 			</div>
 			<div>
-			<button type = "submit" onclick = "createemployee()">Submit</button>
+			<button type = "submit" onclick = "editEmployee()">Save</button>
 			</div>
 		</div>
 	</body>
