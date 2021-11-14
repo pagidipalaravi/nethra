@@ -1,0 +1,9 @@
+What is strict mode in javascript?
+	"use strict" defines that javascript code should be executed in strict mode.
+What is the purpose of using "use strict"?
+	The purpose of "use strict" is to indicate that the code should be executed in "strict mode".
+	You can use strcit mode in all programs, it will help in preventing you from using undeclarable variables.
+How to declare or enable strict mode?
+	Strict mode is declared by using "use strict" to the beginning of a script or a function.
+	If we declare "use strict"; at the beginning of the script, it is global means all code inside the script will execute in strict mode.
+	If we declare "use script"; inside the function, the code inside the function will only be executed in strict mode.

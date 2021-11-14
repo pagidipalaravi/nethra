@@ -1,0 +1,10 @@
+What is VPN?
+	VPN stands for Virtual Private Network, it is a private network.
+Do you have any experience of vpn?
+	Yes, i have an experience in it.
+What is the purpose of VPN?
+	If we want to connect client machine to the server manchine which is in other countries, then we have to use vpn network.
+Why we need to use VPN?
+	If we want to use the data in a secure way without data leakage, we need an vpn network.
+Do you know any types in vpn?
+	Yes, i know one is global protect vpn and the other one is cicco.

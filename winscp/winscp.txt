@@ -1,0 +1,8 @@
+What is winscp?
+	WinSCP stands for Windows Secure Coping Protocol.
+What is the purpose of WinSCP?
+	If we want to share or tranfer files or commands from local machine to server machine or from server machine to local machine, we need WinSCP.
+Do you have any ecperience in WinSCP?
+	yes, i have an experience in it.
+What is the difference between putty and WinSCP?
+	WinSCP is used for file tranfer to and from your server, where as putty is used to interact with the server directly. 

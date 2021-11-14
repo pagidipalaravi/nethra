@@ -1,0 +1,6 @@
+What is MObaXterm?
+	If we want to run gui based applications in server machine, we need an MObaXterminal.
+Do you have any experience in MObaXterm?
+	Yes, i have an experience in MObaXterm.
+In which Operating System we will use MObaXterm?
+	MObaXterm is used in linux Operating System.

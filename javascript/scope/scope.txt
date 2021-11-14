@@ -1,0 +1,32 @@
+What is an Javascript Scope?
+	Javascript Scope determines the accesebility or visibility of variables.
+What are the types of scope in Javascript?
+	Javascript has three types of Scope:
+		- Block Scope
+		- Function Scope
+		- Global Scope
+What is Block Scope?
+	The code wriiten inside the {} can be an block scope.
+	Javascript keywords let and const provide blockscope in Javascript.
+	let and const Variables declared inside the {} block cannot be accessed from outside the block.
+Why var keyword cannot  have blockscope?
+	Variables declared with var keyword cannot have block scope, because variables declared inside the {} block can be accessed from outside the block.
+What is local scope?
+	Variables declared inside a javascript function , become local to that function.
+	Local variables have function scope.
+	They can only be accessed within the function.
+	Local variables created when the function starts and deleted when the function is completed.
+What is function scope?
+	Javascript has function scope and each function creates a new scope.
+	Variables declared inside the function cannot be accessible from outside the function.
+	Variables declared with var, let and const are quite similar when declared inside a function.
+What is Global variables?
+	A variable declared outside the function becomes global.
+What is global scope?
+	Variables declared globally have Global Scope.
+	Global variables can be accessed from anywhere in a javascript program.
+	If you assign a value to a variable that has not been declared , then it will automatically become a Global variable.
+What is the life time of Javascript variables?
+	The life time of javascript variable starts when it is declared.
+	Function or local variables are deleted when the function is completed.
+	In a web browser, global variables are deleted when you close the browser window.

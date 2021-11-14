@@ -1,0 +1,19 @@
+What is Javascript sets?
+	Javascript is a collection of unique values and each value will occur only once in a set.
+What are the essential methods we have in a set?
+	new set()-It creates a new set.
+	add() - This method will add a new element to the set.
+	delete() - This method will removes an element from the set.
+	has() - This method will returns true if the value exixt in the set.
+	forEach() - It invokes a callback for each element in the set.
+	values() - It returns an iterator with all the values in the set.
+How to create a Set?
+	We can create a Javascript Set by :
+		-passing an array to a new Set().
+		-Create a new Set and use add() to add values.
+		-create a new set and use add() to add variables.
+What add() method will do?
+	The add() method will add the element in the set and if you add equal elements, then only the first one will be saved.
+What is value() method?
+	The value() method returns a new iterator object containing all the values in a set.
+	You can use the iterator object to access the elements.

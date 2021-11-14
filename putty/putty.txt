@@ -1,0 +1,6 @@
+What is an putty?
+	It is an application software, if we want to work or operate the server machine with command level we use putty.
+Do you have any experience in putty?
+	Yes, i have an experience in putty.
+IS putty is an command based or gui based?
+	Putty is an command based interface.
