@@ -1,0 +1,55 @@
+What is SDLC?(Software Develop Life Cycle)
+	It describes how to develop an application based on client requirement within the time and cost.
+	It is a step by step execution process.
+What are the phases in SDLC?
+	Requirements collection
+	Requirement Analysis
+	Design
+	Coding
+	Testing
+	Release & Maintainence
+What is BRS(Business Requirement Specification)?
+	The BA(Business Analysts) collects requirements from the client and will make these requirements into documents called BRS.
+What does BRS describes?
+	It describes the main purpose of application, how many users and what are the required services for the users.
+What is feasibility study and what are the factors in it?
+	They will check budget or cost
+	Time is also an important factors
+	They will check whether the requirements will satisfy the customers requirements.
+What is FRS(Functinality Requirement Specification)?
+	In every application there will be some functinalities, each and every functinalities are individual component  details available in FRS.
+What are the types of designing?
+	gui-It is the blue print of the applicatin
+	db(database)
+	app-
+		In applicatin there are two types: High level designing 
+											Low level designing- it is about internal logic
+What is modularization?
+	A large project will be divided into multiple modules for easy development called modularization.
+What is testing?
+	The applicatin is working or not based on clients requirement called testing.
+What are Software Models?
+	There are different SDLC models which are followed during the software development phase.
+	Here are some important phases of SDLC :
+		Waterfall Model
+		RAD Model
+		Spiral Model
+		V-Model
+		Increment Model
+		Agile Model
+		Iterative Model
+		Bigbang Model
+What is Waterfall Model?
+	It is a continuous software development model in which development is seen as flowing steadily downwards through the steps of requirements analysis, design, development,testing(validation), integration and maintainance.
+What is Incremental Model?
+	It is not an separate model, it is necessarily a series of waterfall cycles.
+	The SDLC process is repeated, with each release adding more functionality until all requirements are met.
+What is Agile Model?
+	It is the combination of both increment and iterative model.
+	In Agile there are some testing methods and the most important method is scrum.
+	What is Scrum?
+	Scrum is an agile development process focused primarily on ways to manage tasks in team-based development conditions.
+	There are three roles in it and their responsibilities are:
+		Scrum master : The scrum can setup the master team, arrange the meeting and remove obstacles for the process.
+		Product owner:
+		Scrum Team: The team manages its work and organizes the work to complete the sprint or cycle.

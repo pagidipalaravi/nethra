@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'firstangularproject';
+  pageHeader:string = 'Employee Details';
+  currentItem:string = "INPUT Decorators";
+  items1:any = ['item1', 'item2', 'item3', 'item4'];
 }

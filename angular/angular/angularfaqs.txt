@@ -1,0 +1,47 @@
+We have html,css,js,jquery and angularjs to develop web applications
+then why we need to use angular ?
+	jqerry and angularjs are just javascript libraries where as angular is a framework and it has its own life cycle.
+	What is framework?
+		mvvm
+		v html
+		vm components
+		m  service.ts
+		it is a skeleton for creating web application.
+		when we create a project it create folders 
+	What is lifecycle?
+	What is node.js?
+
+		
+	What is npm?
+		npm is the node packaging manager it will manages the js libraries for node.js project.
+		It has set of commands to create, deploye and run the projects.
+What is component?
+	Component is a bilding block of single page application, it consists of template, class and decorator.
+	Without decorator the class wont be an app component.
+What are the types of data binding?
+	There are two types of data binding:
+		one-way data binding
+		Two-way databinding
+What is one-way data binding?
+	It will bind the data from typescript file to html file or we can say bind the data from business logic to template.
+	Interpolation, propertybinding, eventbinding comes under one-way binding.
+What is interpolation?
+	It will allow us to make changes in typescript file and it will fetch data from typescript file to html template.
+What is property binding?
+	It is type of one-way data binding where the data is transfered from business logic to template.
+	Property binding is used within square braces[].
+What are the types we have in property binding?
+	We have three types in property binding:
+		Attribute binding- while adding attribute binding add attr as an prefix to the element.
+		Class binding- If we want to add additional class to an element based on some conditions, then use class binding.
+		Style binding- If we want to add additional style to an element based on some conditions, then use style binding.
+What is event binding?
+	In event binding it will perform an action that will be recognized by the application when we click on something.
+What is two-way data binding?
+	It will bind data from typescript file to template and from template to typescript file.
+	ngModel comes under two-way data binding.
+What is ngModel?
+	It is a combination of property binding and event binding.
+
+	
+What is the difference between compile and interpreter?

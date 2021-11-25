@@ -1,0 +1,38 @@
+>> SQL> select username from dba_users;
+>> Will give you list of all users but all users may not have created objects in it. So we cannot call them as schema.
+>> SQL> select distinct owner from dba_objects;
+>> Will give you the list of schemas available.
+
+what is the diff between user and schema in oracle database?
+How to create schema and user in oracle database?
+How to export and import schema from sql
+What is the diff between DDL and DML in oracle database?
+https://livesql.oracle.com/apex/livesql/file/content_GV8MU6SITA2V3VYI179FAJUCY.html
+https://www.oracle.com/webfolder/technetwork/tutorials/obe/db/12c/r1/odb_quickstart/odb_quick_start.html
+
+A schema is collection of database objects, including logical structures such as tables, views, sequences, stored procedures, synonyms, indexes, clusters, and database links.
+A user owns a schema.
+A user and a schema have the same name.
+The CREATE USER command creates a user. It also automatically creates a schema for that user.
+The CREATE SCHEMA command does not create a "schema" as it implies, it just allows you to create multiple tables and views and perform multiple grants in your own schema in a single transaction.
+For all intents and purposes you can consider a user to be a schema and a schema to be a user.
+Furthermore, a user can access objects in schemas other than their own, if they have permission to do so.
+
+
+==
+What is the difference between PDB and CDB?
+
+What is the difference between schema and user in oracle database?
+
+schema - HR
+	Combination of tables and views and etc...,
+schema it self is an user
+
+HR
+	dilleep can only  read permissions of HR schema
+	anil have read and write permission of HR schema
+	ravi Admin
+==
+How to create a schema?
+How to create a User?
+how to grant preveliges to the users?
