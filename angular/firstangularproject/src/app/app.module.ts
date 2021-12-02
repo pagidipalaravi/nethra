@@ -1,4 +1,5 @@
 import { NgModule } from '@angular/core';
+import { ReactiveFormsModule } from '@angular/forms';
 import { FormsModule } from '@angular/forms';
 import { BrowserModule } from '@angular/platform-browser';
 
@@ -8,6 +9,7 @@ import { HomeComponent } from './home/home.component';
 import { EmployeeComponent } from './employee/employee.component';
 import { HighlightDirective } from './highlight.directive';
 import { StudentComponent } from './student/student.component';
+import { CreateemployeeComponent } from './createemployee/createemployee.component';
 
 @NgModule({
   declarations: [
@@ -15,12 +17,14 @@ import { StudentComponent } from './student/student.component';
     HomeComponent,
     EmployeeComponent,
     HighlightDirective,
-    StudentComponent
+    StudentComponent,
+    CreateemployeeComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
-    FormsModule
+    FormsModule,
+    ReactiveFormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

@@ -28,6 +28,8 @@ What is modularization?
 	A large project will be divided into multiple modules for easy development called modularization.
 What is testing?
 	The applicatin is working or not based on clients requirement called testing.
+==
+
 What are Software Models?
 	There are different SDLC models which are followed during the software development phase.
 	Here are some important phases of SDLC :
@@ -53,3 +55,24 @@ What is Agile Model?
 		Scrum master : The scrum can setup the master team, arrange the meeting and remove obstacles for the process.
 		Product owner:
 		Scrum Team: The team manages its work and organizes the work to complete the sprint or cycle.
+==
+
+Which Methodology or Model used for develop the application.?
+	We are used agile methodologies or models for developing the applications...
+Which tool we used to follow the Agile Methodology..?
+	We are used Jira tool for follow the Agile Methodology
+==
+
+What is an applicatin artitechure?
+	The application architrcture describes the behaviour of applications and these applications are mapped to different environments.
+	Firstly the code will be developed by the dev environment and this application will be deployed into testing machine or testing server.
+	The testing team will test the applicatin and this will be deployed into uat-testing(user acceptance test).
+	After finished uat-testing then the applicatin will deployed into pre-prod environment, then finally it will deploy into a prod environment.
+What is an uat-testing?
+	uat stands for user acceptance test, it Is a final stage to test SDLC wheather the application is able to carry out the required tasks based on client requirements.
+Why we need to use-pre-prod environment?
+	Before deploying directly into a production environment we use pre-prod to test the application digitally or duplicate our production monitoring system while testing.
+	
+Do you have any experience in ci-cd-tools?
+
+

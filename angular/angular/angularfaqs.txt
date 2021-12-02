@@ -10,8 +10,11 @@ then why we need to use angular ?
 		when we create a project it create folders 
 	What is lifecycle?
 	What is node.js?
-
-		
+		Node.js is the javascript run time, which is built on chrome's [V8 JavaScript engine(JS compiler)].
+	What is the use of node.js?
+		By using node.js we can run js files from the CLI without having any web browser.
+		It act like as a server, it will compile and runs the js files.
+		node.js itself act as a server means we can run our application without servers.
 	What is npm?
 		npm is the node packaging manager it will manages the js libraries for node.js project.
 		It has set of commands to create, deploye and run the projects.
@@ -29,6 +32,7 @@ What is interpolation?
 	It will allow us to make changes in typescript file and it will fetch data from typescript file to html template.
 What is property binding?
 	It is type of one-way data binding where the data is transfered from business logic to template.
+	
 	Property binding is used within square braces[].
 What are the types we have in property binding?
 	We have three types in property binding:
@@ -44,4 +48,25 @@ What is ngModel?
 	It is a combination of property binding and event binding.
 
 	
-What is the difference between compile and interpreter?
+What is the difference between compilers and interpreter?
+	Compilers will compile the program by providing an errors where as in Interpreter will tranfer the files but will not provide any errors
+What is service in angular?
+	The main use of service is to write the code once and we can reuse the code by avoid rewriting the code.
+What is httpclient?
+	Most frontend applications need to communicate with the server over the http protocol, to download or upload data and access backend services.
+	Angular provide a httpclient API for angular applications.
+	
+What are the types in forms?
+	There are two types in forms:
+		Reactive forms
+		Template-driven forms
+What is the difference between reactive forms and template-driven forms?
+	Template-driven forms are make use of FormsModule while reactive forms are based on ReactiveFormsModule.
+	Template-driven forms are asynchronous where as reactive forms are mostly synchronous.
+	In template-driven form most of the logic is from template whereas in reactive forms logic is from typescript.
+What is FormControl?
+	It is used to track the value and validation status of an individual form control.
+What is FormGroup?
+	It is used to track the value and validation status for the collection of form controls.
+What is FormArray?
+	It is used to track the values and status for an array of form controls.

@@ -1,0 +1,24 @@
+What is NodeJs?
+	Node.js is a JavaScript runtime, Which is built on Chrome's [V8 JavaScript engine (JS Compiler)].
+What is the use of nodeJS?
+	By Using nodejs we can run js files from the the CLI, without having any web browser.
+	It act like as a server, it will compile and runs the js files.
+	nodejs itself act as a server means we can run our application without servers.
+	serverless
+why we use nodejs for intalling angular?
+	nodejs which contain number of node module in that angular is one so if we want to create or run we use the nodejs?
+
+What is the difference between interpreter and compiler?
+	compailer will compaile the whole program at a same time.
+	A compiler generates the error message only after it scans the complete program and hence debugging is relatively harder while working with a compiler.
+	Interpreter compile line by line manner so it throw the error when we get an error.
+	If any error is spotted, it stops working and hence debugging becomes easy.
+
+What is design time?
+	Design Time is the process of creating an application, designing an interface, setting the properties, and writing the code. 
+What is compilation time error?
+	The compile-time errors are the errors which are produced at the compile-time, and they are detected by the compiler.It contains the syntax and semantic errors
+What is run time error?
+	The runtime errors are the errors that occur during the execution and after compilation. It contains the errors such as division by zero.
+What is the difference between compile-time and run-time?
+	 Compile-time is the time at which the source code is converted into an executable code while the run time is the time at which the executable code is started running.

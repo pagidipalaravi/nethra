@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel = "stylesheet" href = "project.css"></link>
+	</head>
+	<body>
+	<form>
+		<table>
+		<tr>
+			<th style= "width:25%">production control gateway</th>
+			<th style= "font-size:40px">Sourcing & Routing Assignment Form</th>
+		</tr>
+		<tr>
+			<td style = "padding:40px">
+				<label for = "orgname">ORG</label>
+				<select id = "orgname">
+					<option value="org1">org1</option>
+					<option value="org2">org2</option>
+					<option value="org3">org3</option>
+					<option value="org4">org4</option>
+					<option value="org5">org5</option>
+					<option value="org6">org6</option>
+				</select>
+			</td>
+			<td>
+				<label for = "asemblyname">ASSEMBLY</label>
+				<input type = "text" id = "assemblyname">
+				<button type = "button">Find</button>
+			</td>	
+		</tr>
+		<tr>
+			<table style="width:60%">
+				<tr>
+				<th>Item</th>
+				<th>Item Description</th>
+				<th>MFG Method</th>
+				<th>Serial Control</th>
+				<th>Sourcing Org</th>
+				<th>Routing</th>
+				</tr>
+				<tr>
+					<td>Item</td>
+					<td>Item Description</td>
+					<td>MFG Method</td>
+					<td>Serial Control</td>
+					<td>Sourcing Org</td>
+					<td>
+						<select>
+							<option>Routing1</option>
+							<option>Routing2</option>
+							<option>Routing3</option>
+							<option>Routing4</option>
+							<option>Routing5</option>
+						</select>
+					</td>
+				</tr>
+				
+			</table>
+			<input type = "submit"></input>
+		</tr>
+		
+			
+		
+		</table>
+		</form>
+	</body>
+</html>
